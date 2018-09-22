@@ -1,0 +1,20 @@
+.Nav {
+  list-style: none;
+}
+.Nav li {
+  display: inline-block;
+}
+.Text {
+  color: #b7f3ff;
+  font-size: 20px;
+}
+.Text:hover {
+  color: #ffffff;
+  cursor: pointer;
+}
+.Text.active {
+  border-bottom: 4px solid #000;
+}
+.Result {
+  color: #b7f3ff;
+}

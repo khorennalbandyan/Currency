@@ -1,0 +1,23 @@
+.List {
+    list-style: none;
+}
+.Text {
+    color: #ffffff;
+  }
+.Title {
+    font-size: 20px;
+    color: #b7f3ff;
+    border-bottom: 1px solid #ffffff;
+}
+.ChoosenTrue {
+    color: #fcf341
+}
+.ChoosenTrue:hover {
+    cursor: pointer;
+}
+.ChoosenFalse {
+    color: #b7f3ff
+}
+.ChoosenFalse:hover {
+    cursor: pointer;
+}
